@@ -8,7 +8,7 @@ I write software for companies that are not on the internet yet.
 
 Most of my work is unglamorous and very real: a firm in Galați has a phone number, a
 logo on a van and nothing else. A while later it has a site, a catalogue, a cart, a
-GDPR page and enquiries arriving in an inbox. Five of those are serving traffic right
+GDPR page and enquiries arriving in an inbox. Four of those are serving traffic right
 now. In parallel I'm building **PlayerHub** — a Flutter + ASP.NET Core app for booking
 sports pitches and organising matches, currently in pre-launch.
 
