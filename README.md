@@ -37,7 +37,7 @@ a business actually needs before you write a line of code for it.
 | [**battleship-multiplayer**](https://github.com/ghimpuiosif/battleship-multiplayer) | Real-time two-player Battleship over SignalR. One .NET 10 hub with matchmaking, two clients — WPF desktop and Blazor WebAssembly — talking to the same server. |
 | [**playerhub-landing**](https://github.com/ghimpuiosif/playerhub-landing) | The PlayerHub marketing site. No framework, no build step — hand-written HTML/CSS/JS, a client-side include system, deep links that open the app if it is installed, and a contact form with a honeypot and a bot-timing check. |
 | [**hero-3d**](https://github.com/ghimpuiosif/hero-3d) | A scroll-driven WebGL hero: React Three Fiber + Rapier physics + GSAP + Lenis. Built to find out how much motion a landing page can carry before it stops feeling fast. |
-| [**playerhubFlutter**](https://github.com/ghimpuiosif/playerhubFlutter) | Mobile client work for PlayerHub. |
+| [**playerhubFlutter**](https://github.com/ghimpuiosif/playerhubFlutter) | The PlayerHub codebase: ASP.NET Core API, the Flutter client, a .NET MAUI app and the Stitch UI design mockups, all in one repo. |
 | [**iosif-ghimpu-portfolio**](https://github.com/ghimpuiosif/iosif-ghimpu-portfolio) | My own site. Vite, hand-built components, no template. |
 
 <br>
