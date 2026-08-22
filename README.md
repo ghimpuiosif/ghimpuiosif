@@ -58,9 +58,9 @@ phone in a village with two bars of signal, which matters more than it sounds.
 
 **Secrets never enter the repository.** Connection strings and signing keys live in
 `user-secrets` and environment variables; keystores, `key.properties` and
-`appsettings.Local.json` are ignored by default, and every repo ships with an example
-file instead of the real one. A public repo of mine should be safe to clone by a
-stranger and useless to an attacker.
+`appsettings.Local.json` are ignored by default, and any repo that needs one ships an
+example file instead of the real one. A public repo of mine should be safe to clone by
+a stranger and useless to an attacker.
 
 **Legal pages are part of the build, not an afterthought.** GDPR, cookie policy, terms
 and the ANPC links go in on day one. In Romania that is not optional, and a client
