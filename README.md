@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
-  <img alt="Ghimpu Iosif — full-stack developer, Galați, Romania" src="assets/hero-dark.svg" width="100%">
+  <img alt="Ghimpu Iosif — full-stack developer, Galați, Romania" src="assets/hero-light.svg" width="100%">
 </picture>
 
 I write software for companies that are not on the internet yet.
@@ -45,7 +45,7 @@ a business actually needs before you write a line of code for it.
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/stack-light.svg">
-  <img alt="Technical stack. Languages: C#, Dart, JavaScript, PHP, Python, SQL, C++. Backend: ASP.NET Core, Entity Framework, SignalR, JWT + BCrypt, MySQL, Oracle. Mobile: Flutter, Provider, Android Studio. Front: Vite, React, Three.js, vanilla JS, design tokens. CMS: WordPress custom themes, WooCommerce, no page builders. Shipping: Git, Docker, Netlify, VPS + cPanel, GDPR / ANPC compliance." src="assets/stack-dark.svg" width="100%">
+  <img alt="Technical stack. Languages: C#, Dart, JavaScript, PHP, Python, SQL, C++. Backend: ASP.NET Core, Entity Framework, SignalR, JWT + BCrypt, MySQL, Oracle. Mobile: Flutter, Provider, Android Studio. Front: Vite, React, Three.js, vanilla JS, design tokens. CMS: WordPress custom themes, WooCommerce, no page builders. Shipping: Git, Docker, Netlify, VPS + cPanel, GDPR / ANPC compliance." src="assets/stack-light.svg" width="100%">
 </picture>
 
 <br>
