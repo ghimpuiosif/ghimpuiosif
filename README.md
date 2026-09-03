@@ -22,7 +22,7 @@ a business actually needs before you write a line of code for it.
 
 |  | Sector | What I built | |
 |---|---|---|---|
-| **PlayerHub** | Sports · marketplace | Flutter client, ASP.NET Core API (JWT + BCrypt, MySQL), match chat, booking & subscriptions, owner analytics, marketing site | [playerhub.ro](https://playerhub.ro) |
+| **PlayerHub** | Sports · marketplace | Flutter client, ASP.NET Core API (JWT + BCrypt, MySQL), match chat, booking, owner analytics, marketing site | [playerhub.ro](https://playerhub.ro) |
 | **AAC Almargal Smart** | Accounting | Hand-written WordPress theme, animated 3D hero, service catalogue, quote flow, GDPR | [contabilitateaac.ro](https://contabilitateaac.ro) |
 | **Reggdany** | Residential construction | Hand-written theme, WooCommerce catalogue + checkout, account area, legal pages | [reggdany.ro](https://reggdany.ro) |
 | **Opteam Construct** | Site preparation & drainage | Hand-written theme, service detail pages, cart, contact pipeline | [opteamconstruct.ro](https://opteamconstruct.ro) |
